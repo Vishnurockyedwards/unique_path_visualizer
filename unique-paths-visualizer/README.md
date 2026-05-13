@@ -27,7 +27,7 @@ A visual, interactive React application to explore **dynamic programming (DP)** 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GreenMarioh/unique-paths-visualizer.git
+git clone https://github.com/Vishnurockyedwards/unique_path_visualizer.git
 cd unique-paths-visualizer
 ```
 
@@ -70,7 +70,6 @@ MIT License. Feel free to fork and improve!
 
 ## 🚇️ Author
 
-Created with ❤️ by [@GreenMarioh](https://github.com/GreenMarioh)
+Created with ❤️ by [@the10thvishnu](https://github.com/Vishnurockyedwards)
 
-👉 View the source code:  
-🔗 [https://github.com/GreenMarioh/unique-paths-visualizer](https://github.com/GreenMarioh/unique-paths-visualizer)
+
